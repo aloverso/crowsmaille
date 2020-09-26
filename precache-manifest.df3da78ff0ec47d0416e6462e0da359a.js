@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97bd5923e98decde79a2d3c47973c33c",
+    "revision": "95692200faab679f111d225414707d6b",
     "url": "/crowsmaille/index.html"
   },
   {
-    "revision": "4f142a62ce93e03749ee",
+    "revision": "ede78f05ce3df8fe4c9d",
     "url": "/crowsmaille/static/css/main.539a0afa.chunk.css"
   },
   {
-    "revision": "82b4bfdaa8ad8d428059",
-    "url": "/crowsmaille/static/js/2.b8f51b82.chunk.js"
+    "revision": "9160f303c3476f4b382d",
+    "url": "/crowsmaille/static/js/2.0ef66e09.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/crowsmaille/static/js/2.b8f51b82.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/crowsmaille/static/js/2.0ef66e09.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f142a62ce93e03749ee",
-    "url": "/crowsmaille/static/js/main.53a72ae3.chunk.js"
+    "revision": "ede78f05ce3df8fe4c9d",
+    "url": "/crowsmaille/static/js/main.7d55d185.chunk.js"
   },
   {
     "revision": "80827e44800f34b9acdb",

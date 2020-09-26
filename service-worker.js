@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crowsmaille/precache-manifest.132cfc1b9766eb16dd64ffa7847f7c72.js"
+  "/crowsmaille/precache-manifest.df3da78ff0ec47d0416e6462e0da359a.js"
 );
 
 self.addEventListener('message', (event) => {
